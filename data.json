@@ -31,4 +31,6 @@
 			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
 		}
 	]
+
+	data["friends"].push(newFriend)
 }
